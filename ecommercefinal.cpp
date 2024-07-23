@@ -108,8 +108,10 @@ int main() {
                                     break;
                                 case 8:
                                     backupProducts();
+                                    break;
                                 case 9:
                                     backupCustomers();
+                                    break;
                                 case 10:
                                     goBack();
                                     break;
