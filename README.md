@@ -29,20 +29,6 @@ Welcome to the Edalex Tech Store project! This is a C++ application for managing
 -   **View Favorites**: View favorite products.
 -   **Checkout**: Purchase products in the cart.
 
-## Installation
-
-1.  Clone the repository:
-
-        bashCopy codegit clone https://github.com/yourusername/edalex-tech-store.gitcd edalex-tech-store
-
-2.  Compile the program using a C++ compiler:
-
-        bashCopy codeg++ -o edalex-tech-store main.cpp
-
-3.  Run the executable:
-
-        bashCopy code./edalex-tech-store
-
 ## Usage
 
 1. **Admin Login**:
@@ -54,6 +40,14 @@ Welcome to the Edalex Tech Store project! This is a C++ application for managing
 
     - Follow the prompts to sign up or sign in.
     - Once logged in, access customer-specific features such as viewing products, adding to cart, and checking out.
+
+## Live Demo
+
+## Open in GitHub Codespaces
+
+Open this project in GitHub Codespaces to interact with it. Click the button below:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=yourusername/edalex-tech-store)
 
 ## Contribution
 
@@ -73,13 +67,3 @@ Contributions are welcome! Please follow these steps:
         bashCopy codegit push origin feature/your-feature-name
 
 5.  Open a pull request.
-
-## Open in GitHub Codespaces
-
-To open this project in GitHub Codespaces, click the button below:
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=yourusername/edalex-tech-store)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
