@@ -43,6 +43,8 @@ Welcome to the Edalex Tech Store project! This is a C++ application for managing
 
 ## Live Demo
 
+![Edalex Tech Store](Assets/ecom_demo.gif)
+
 ## Open in GitHub Codespaces
 
 Open this project in GitHub Codespaces to interact with it. Click the button below:
