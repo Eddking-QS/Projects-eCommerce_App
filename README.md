@@ -10,7 +10,7 @@ Welcome to the Edalex Tech Store project! This is a C++ application for managing
 
 Open this project in GitHub Codespaces to interact with it. Click the button below:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=yourusername/edalex-tech-store)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=Eddking-QS/Projects-eCommerce_App)
 
 ## Features
 
