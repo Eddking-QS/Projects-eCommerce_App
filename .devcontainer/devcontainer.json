@@ -1,7 +1,6 @@
 {
     "name": "C++ Development",
     "image": "mcr.microsoft.com/devcontainers/cpp:0-ubuntu-20.04",
-    "postCreateCommand": "g++ -o myapp main.cpp",
     "customizations": {
         "vscode": {
             "extensions": [
