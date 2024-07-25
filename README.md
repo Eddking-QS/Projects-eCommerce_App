@@ -2,6 +2,16 @@
 
 Welcome to the Edalex Tech Store project! This is a C++ application for managing a tech store, featuring functionalities for both admins and customers. Below is a detailed description of the features, usage, and contribution guidelines.
 
+## Live Demo
+
+![Edalex Tech Store](Assets/ecom_demo.gif)
+
+## Open in GitHub Codespaces
+
+Open this project in GitHub Codespaces to interact with it. Click the button below:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=yourusername/edalex-tech-store)
+
 ## Features
 
 ### Admin Features
@@ -40,16 +50,6 @@ Welcome to the Edalex Tech Store project! This is a C++ application for managing
 
     - Follow the prompts to sign up or sign in.
     - Once logged in, access customer-specific features such as viewing products, adding to cart, and checking out.
-
-## Live Demo
-
-![Edalex Tech Store](Assets/ecom_demo.gif)
-
-## Open in GitHub Codespaces
-
-Open this project in GitHub Codespaces to interact with it. Click the button below:
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=yourusername/edalex-tech-store)
 
 ## Contribution
 
