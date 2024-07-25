@@ -1,10 +1,14 @@
 {
     "name": "C++ Development",
     "image": "mcr.microsoft.com/devcontainers/cpp:0-ubuntu-20.04",
-    "postCreateCommand": "g++ -o myapp main.cpp && ./myapp",
+    "postCreateCommand": "g++ -o myapp main.cpp",
     "customizations": {
         "vscode": {
-            "extensions": ["ms-vscode.cpptools"]
+            "extensions": [
+                "ms-vscode.cpptools",
+                "ms-vscode.cpptools-extension-pack",
+                "formulahendry.code-runner"
+            ]
         }
     },
     "settings": {
