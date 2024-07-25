@@ -55,17 +55,23 @@ Open this project in GitHub Codespaces to interact with it. Click the button bel
 
 Contributions are welcome! Please follow these steps:
 
-1.  Fork the repository.
-2.  Create a new branch:
+1. Fork the repository.
+2. Create a new branch:
 
-        bashCopy codegit checkout -b feature/your-feature-name
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
 
-3.  Make your changes and commit them:
+3. Make your changes and commit them:
 
-        bashCopy codegit commit -m 'Add some feature'
+    ```bash
+    git commit -m 'Add some feature'
+    ```
 
-4.  Push to the branch:
+4. Push to the branch:
 
-        bashCopy codegit push origin feature/your-feature-name
+    ```bash
+    git push origin feature/your-feature-name
+    ```
 
-5.  Open a pull request.
+5. Open a pull request.
